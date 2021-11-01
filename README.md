@@ -11,8 +11,6 @@
 - [7. Autoras](#7-autoras)
 
 
-Proposta.
-
 <div align="center" style="display: flex">
 <img src='src/img/ellas-dev-logo.png' widht='40%'> 
 </div>
