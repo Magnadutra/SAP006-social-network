@@ -16,7 +16,7 @@
 Ellas Dev é uma rede social pensada para alunas e ex alunas da [Laboratoria Brasil](https://www.laboratoria.la/br), com a intenção de facilitar trocas de experiências, network e divisão de conhecimento. A rede social permite publicação de posts inspirada no Twitter, possibilitando dar like em posts favoritos.
 
 <div align='center'>
-<h4> Você pode acessar a aplicação <a href="rede-social-70f9c.web.app">clicando aqui</a></h4>
+<h4> Você pode acessar a aplicação <a href="https://www.rede-social-70f9c.web.app">clicando aqui</a></h4>
 </div>
 
 ## 2. Histórias de Usuários
