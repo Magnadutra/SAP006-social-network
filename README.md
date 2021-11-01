@@ -11,10 +11,6 @@
 - [7. Autoras](#7-autoras)
 
 
-<div align="center" style="display: flex">
-<img src='src/img/ellas-dev-logo.png' widht='40%'> 
-</div>
-
 ## 1. Sobre
 
 Ellas Dev é uma rede social pensada para alunas e ex alunas da [Laboratoria Brasil](https://www.laboratoria.la/br), com a intenção de facilitar trocas de experiências, network e divisão de conhecimento. A rede social permite publicação de posts inspirada no Twitter, possibilitando dar like em posts favoritos.
