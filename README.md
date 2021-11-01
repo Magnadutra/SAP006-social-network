@@ -31,48 +31,46 @@ Para o desenvolvimento de produtos voltado para o usuário, utilizamos pesquisas
 
 Para os nossos usuários é importante um espaço voltado para mulheres na tecnologia.
 
-<p align='center'>
-<img src="src/img/HistoriaDeUsuario1.JPG" width="70%">
+
+<img  align='center' src="src/img/HistoriaDeUsuario1.JPG" width="70%">
 
 
 Escolhemos quatro obras de artistas mulheres para a definição de protótipo e cores.
 
 A Obra escolhida:
-<p align='center'>
-<img src="src/img/asDuasFridas.jpg" width="70%">
+
+<img  align='center' src="src/img/asDuasFridas.jpg" width="70%">
 
 
 Resultado da pesquisa:
 
-<p align='center'>
-<img src="src/img/historiaDeUsuario2.JPG" width="60%">
+<img  align='center' src="src/img/historiaDeUsuario2.JPG" width="60%">
 
 ## 3. Layout
 
 Protótipo de baixa fidelidade:
-<p align='center'>  
-<img src="src/img/Protótipo mobile.png" width="60%">
+
+<img align='center' src="src/img/Protótipo mobile.png" width="60%">
 
 ## 4. Produto Final
 
 Tela de login:
 
-<img src="src/img/tela de login.JPG" width="60%">
+<img  align='center' src="src/img/tela de login.JPG" width="50%">
 
 Tela de Cadastro:
-<p align='center'>
-<img src="src/img/Cadastro.JPG" width="60%">
+
+<img  align='center' src="src/img/Cadastro.JPG" width="50%">
 
 Tela de feed:
-<p align='center'>
-<img src="src/img/feed.JPG" width="60%">
+
+<img  align='center' src="src/img/feed.JPG" width="50%">
 
 ## 5. Planejamento
 
 O fluxograma descreve um processo, sistema ou algoritmo de computador. São amplamente utilizados para documentar, estudar, planejar, melhorar e comunicar processos complexos por meio de diagramas claros e fáceis de entender. Para definirmos o seguimento do trabalho em dupla, utilizamos para definir o fluxo das pastas contendo cada itens da aplicação final.
 
-<p align='center'>
-<img src="src/img/fluxograma.png" width="70%">
+<img align='center'src="src/img/fluxograma.png" width="60%">
 
 ## 6. Metodologias e Tecnologias
 - Scrum           
