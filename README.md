@@ -13,8 +13,9 @@
 
 Proposta.
 
+<div align="center" style="display: flex">
 <img src='src/img/ellas-dev-logo.png' widht='40%'> 
-
+</div>
 
 ## 1. Sobre
 
@@ -49,9 +50,8 @@ Resultado da pesquisa:
 
 Protótipo de baixa fidelidade:
 
-<div align="center" style="display: flex">
-  <img src="src/img/Protótipo mobile.png" width="60%">
-</div>
+  <img src="src/img/Protótipo mobile.png" width="50%">
+
 
 ## 4. Produto Final
 
